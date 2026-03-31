@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: "Muktaloy Residency",
     description:
       "Premium residential apartments with modern living facilities, trusted amenities, and comfortable family-friendly spaces.",
-    url: "https://muktaloy.com",
+    url: "https://muktaloy.top",
     siteName: "Muktaloy Residency",
     locale: "en_US",
     type: "website"

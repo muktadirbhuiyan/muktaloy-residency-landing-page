@@ -40,7 +40,7 @@ export function Hero() {
               Contact Us
             </a>
             <a
-              href="https://portal.muktaloy.com"
+              href="https://portal.muktaloy.top"
               target="_blank"
               rel="noreferrer"
               className="rounded-2xl bg-accent-400 px-6 py-3 text-sm font-semibold text-slate-900 transition hover:bg-accent-300"
